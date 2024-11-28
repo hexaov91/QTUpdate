@@ -1,0 +1,9 @@
+{
+  "Version": "1.0.2",
+  "RVersion": "2",
+  "resUrl": "https://github.com/hexaov91/QTUpdate/releases/download/1/patch.res",
+  "resDiffUrl": "https://github.com/hexaov91/QTUpdate/releases/download/1/patch.resdiff",
+  "updateInfo": {
+
+  }
+}
