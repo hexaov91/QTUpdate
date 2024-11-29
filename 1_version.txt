@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "RVersion": "5",
+  "Version": "1.0.6",
+  "RVersion": "6",
   "resUrl": "https://github.com/hexaov91/QTUpdate/releases/download/1/patch.res",
   "resDiffUrl": "https://github.com/hexaov91/QTUpdate/releases/download/1/patch.resdiff",
   "updateInfo": {
